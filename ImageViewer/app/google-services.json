@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "828755620450",
+    "project_id": "photoviewer-366e2",
+    "storage_bucket": "photoviewer-366e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828755620450:android:5a3faa126cf6d4a4b3973b",
+        "android_client_info": {
+          "package_name": "com.example.imageviewer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "828755620450-dcfcq5105m7n629eh1tuv2i86s346tgv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBT2dN4ehNdbfDGoQLdESyo7ebv3mtAjXw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "828755620450-dcfcq5105m7n629eh1tuv2i86s346tgv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
